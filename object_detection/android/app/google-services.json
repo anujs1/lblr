@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862806250435",
+    "firebase_url": "https://ml-vision-b60d8.firebaseio.com",
+    "project_id": "ml-vision-b60d8",
+    "storage_bucket": "ml-vision-b60d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862806250435:android:d3475bd67b0c0e06212376",
+        "android_client_info": {
+          "package_name": "com.anujsingla.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862806250435-fm49qsj1srtq0846l6mi3uvs5unbs3sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqEDtbG7bTXq2Uws0u7X5V_pRGpgwjN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862806250435-fm49qsj1srtq0846l6mi3uvs5unbs3sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
